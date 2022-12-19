@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class isAnagram {
+public class IsAnagram {
     /**
      *
      * @param str1 is the first parameter

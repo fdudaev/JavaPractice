@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class findTargetFromTwoArray {
+public class FindTargetFromTwoArray {
     /**
      *
      * @param array1 - is the first parameter
